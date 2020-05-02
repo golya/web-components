@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.25a90703.chunk.css","sources":["webpack:///./src/styles.module.css"],"sourcesContent":["/* add css module styles here (optional) */\n\n.test {\n  margin: 2em;\n  padding: 0.5em;\n  border: 2px solid #000;\n  font-size: 2em;\n  text-align: center;\n}\n"],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;;","sourceRoot":""}

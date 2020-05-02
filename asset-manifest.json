@@ -1,28 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.14b6927e.chunk.css",
-    "main.js": "./main.1539fdd1abf9b99f2744.bundle.js",
-    "main.css.map": "./static/css/main.14b6927e.chunk.css.map",
-    "main.js.map": "./main.1539fdd1abf9b99f2744.bundle.js.map",
-    "runtime~main.js": "./runtime~main.1539fdd1abf9b99f2744.bundle.js",
-    "runtime~main.js.map": "./runtime~main.1539fdd1abf9b99f2744.bundle.js.map",
-    "vendors~main.css": "./static/css/vendors~main.97db2e8f.chunk.css",
-    "vendors~main.js": "./vendors~main.1539fdd1abf9b99f2744.bundle.js",
-    "vendors~main.css.map": "./static/css/vendors~main.97db2e8f.chunk.css.map",
-    "vendors~main.js.map": "./vendors~main.1539fdd1abf9b99f2744.bundle.js.map",
-    "iframe.html": "./iframe.html",
-    "main.1539fdd1abf9b99f2744.bundle.js.LICENSE.txt": "./main.1539fdd1abf9b99f2744.bundle.js.LICENSE.txt",
-    "precache-manifest.47e0880b4abcbfccdf1e2c21c9d8e727.js": "./precache-manifest.47e0880b4abcbfccdf1e2c21c9d8e727.js",
-    "service-worker.js": "./service-worker.js",
-    "static/media/index.css": "./static/media/Graphik-600.c2128dec.woff2",
-    "static/media/semantic.min.css": "./static/media/outline-icons.ef60a4f6.woff",
-    "vendors~main.1539fdd1abf9b99f2744.bundle.js.LICENSE.txt": "./vendors~main.1539fdd1abf9b99f2744.bundle.js.LICENSE.txt"
+    "main.css": "/static/css/main.25a90703.chunk.css",
+    "main.js": "/main.a636d5749492106125dd.bundle.js",
+    "main.css.map": "/static/css/main.25a90703.chunk.css.map",
+    "main.js.map": "/main.a636d5749492106125dd.bundle.js.map",
+    "runtime~main.js": "/runtime~main.a636d5749492106125dd.bundle.js",
+    "runtime~main.js.map": "/runtime~main.a636d5749492106125dd.bundle.js.map",
+    "vendors~main.css": "/static/css/vendors~main.a9d0127c.chunk.css",
+    "vendors~main.js": "/vendors~main.a636d5749492106125dd.bundle.js",
+    "vendors~main.css.map": "/static/css/vendors~main.a9d0127c.chunk.css.map",
+    "vendors~main.js.map": "/vendors~main.a636d5749492106125dd.bundle.js.map",
+    "iframe.html": "/iframe.html",
+    "main.a636d5749492106125dd.bundle.js.LICENSE.txt": "/main.a636d5749492106125dd.bundle.js.LICENSE.txt",
+    "precache-manifest.7a4efe8cc242c86d288d287ef1c1756b.js": "/precache-manifest.7a4efe8cc242c86d288d287ef1c1756b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff",
+    "vendors~main.a636d5749492106125dd.bundle.js.LICENSE.txt": "/vendors~main.a636d5749492106125dd.bundle.js.LICENSE.txt"
   },
   "entrypoints": [
-    "runtime~main.1539fdd1abf9b99f2744.bundle.js",
-    "static/css/vendors~main.97db2e8f.chunk.css",
-    "vendors~main.1539fdd1abf9b99f2744.bundle.js",
-    "static/css/main.14b6927e.chunk.css",
-    "main.1539fdd1abf9b99f2744.bundle.js"
+    "runtime~main.a636d5749492106125dd.bundle.js",
+    "static/css/vendors~main.a9d0127c.chunk.css",
+    "vendors~main.a636d5749492106125dd.bundle.js",
+    "static/css/main.25a90703.chunk.css",
+    "main.a636d5749492106125dd.bundle.js"
   ]
 }
